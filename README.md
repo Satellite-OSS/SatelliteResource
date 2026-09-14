@@ -19,6 +19,9 @@ The following resources are currently shared in this repository. Each entry reco
 | Name | Type | Publisher | Version or date | Description |
 | --- | --- | --- | --- | --- |
 | [Cloud Technology and Standards Research Report for Space (First Edition)](docs/太空云技术与标准研究报告（第一版）.pdf) | Research report | Key Laboratory of Cloud Computing Technology and Applications, Ministry of Industry and Information Technology(CN), together with several research institutes and universities | First edition | A first-edition report focused on space cloud technology and related standards. It is intended as a reference for readers studying the technical and standardization context of cloud-based space systems. |
+| [All Satellite Projects from GitHub](docs/All%20Satellite%20Projects%20from%20GitHub.xlsx) | Community-curated project reference list | OPENSAT community members | 2026.6 | A community-produced reference list of satellite software-related projects on GitHub. It is based on the following work: Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shangguang Wang, "Characterizing the landscape of open-source satellite software," Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026. [URL]{https://arxiv.org/abs/2608.26211} |
+
+The spreadsheet is a reference list of related satellite software projects, not a software distribution. This repository does not host the listed projects' source code; please follow the project links in the spreadsheet or use the projects' external repositories.
 
 ## Planned Resource Types
 

@@ -19,6 +19,9 @@
 | 名称 | 资源类型 | 发布方 | 版本或日期 | 简介 |
 | --- | --- | --- | --- | --- |
 | [《太空云技术与标准研究报告（第一版）》](docs/太空云技术与标准研究报告（第一版）.pdf) | 研究报告 | 云计算标准与应用工业与信息化部重点实验室联合若干研究所、高校 | 第一版 | 聚焦太空云技术及相关标准的第一版研究报告，可供了解云化太空系统技术背景与标准化语境的读者参考。 |
+| [All Satellite Projects from GitHub](docs/All%20Satellite%20Projects%20from%20GitHub.xlsx) | 社区整理的项目参考清单 | OPENSAT 社区成员 | 2026.6 | 由社区成员完成的卫星软件相关 GitHub 项目参考清单，来源于以下工作：Jinfeng Wen、Qi Liang、Yuehan Sun、Federica Sarro、Ao Zhou、Xuanzhe Liu、Shangguang Wang，《Characterizing the landscape of open-source satellite software》，发表于 2026 年 IEEE/ACM International Conference on Automated Software Engineering（ASE）[URL]{https://arxiv.org/abs/2608.26211} 。 |
+
+该表格是卫星软件相关项目的参考清单，不是软件分发包。本仓库不收录其中项目的源代码，使用时请通过表格中的项目链接访问其可能存在的外部代码仓库。
 
 ## 计划收录的资源范围
 
