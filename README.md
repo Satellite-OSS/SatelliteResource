@@ -2,7 +2,7 @@
 
 This repository contains non-code, non-dataset resources for open-source satellite engineering, curated by the **[OPENSAT](https://github.com/Satellite-OSS)** community.
 
-[![Total views](https://raw.githubusercontent.com/Satellite-OSS/.github/main/traffic/SatelliteResource/views.svg)](https://github.com/Satellite-OSS/.github/tree/main/traffic/SatelliteResource "Cumulative recorded repository views; updated hourly")
+[![Total views](https://raw.githubusercontent.com/Satellite-OSS/.github/main/traffic/SatelliteResource.svg)](https://github.com/Satellite-OSS/.github/blob/main/traffic/SatelliteResource.csv "Cumulative recorded repository views; updated hourly")
 [![Discussions](https://img.shields.io/badge/Discussions-Join%20the%20Community-2ea44f?style=flat-square&logo=github)](https://github.com/orgs/Satellite-OSS-BUPT/discussions)
 [![README](https://img.shields.io/badge/README-中文-blue?style=flat-square)](README.zh-CN.md)
 
